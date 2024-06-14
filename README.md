@@ -5,10 +5,11 @@
 #### By *Vaida Mawia Kitheghe*
 
 ## Description
-The task is to create an Employee Management System that will store the information in the MySQL Database. Helping organizations maintain up-to-date and accurate records of employees.
+The Employee Management System is an application designed to manage employee data efficiently. This system provides a robust and scalable solution for handling employee-related operations. 
+The application supports core functionalities such as adding new employees, removing existing ones, promoting employees, and displaying the list of all employees and their salaries. This ensures a streamlined process for maintaining up-to-date employee records.
 
 ## Installation
-You use git clone to be able to download the documents in the GitHub
+You use git clone to be able to download the files in the GitHub
 
 ## Installation Requirements
 Git
